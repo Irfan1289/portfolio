@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     background: #222;
     color: #fff;
     margin: 0;
@@ -31,6 +31,7 @@ body {
     max-width: 300px;
     max-height: 300px
   }
+
   .slide {
     width: 90vw;
     height: auto;
@@ -44,6 +45,7 @@ body {
     box-sizing: border-box;
     border: 1px solid;
   }
+
   h1 {
     /* border-bottom: 2px solid #1abc9c; */
     padding-bottom: 10px;
@@ -51,15 +53,19 @@ body {
     font-size: 2.5em;
     color: #1abc9c;
   }
+
   p {
     font-size: 1.2em;
     line-height: 1.5em;
     max-width: 900px;
+    font-family: 'Times New Roman', Times, serif;
   }
+
   ul {
     font-size: 1.2em;
     max-width: 900px;
     line-height: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
   }
 
   @media (max-width: 768px)  {
@@ -68,8 +74,7 @@ body {
     max-width: 200px;
     max-height: 200px
   }
-
-    
+  
   }
 
   @media (max-width: 500px)  {
@@ -78,8 +83,9 @@ body {
   height: auto;
  }
 
- .slide{
+ .slide1{
   height: auto;
+  font-family: 'Times New Roman', Times, serif;
  }
     
   }
