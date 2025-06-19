@@ -33,7 +33,7 @@ body {
   }
   .slide {
     width: 90vw;
-    height: 80vh;
+    height: auto;
     margin: 20px auto;
     background: #2c3e50;
     border-radius: 5px;
